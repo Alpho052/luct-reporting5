@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+
+# Environment files (secrets)
+.env
+.env.local
+
+# Build outputs
+client/build/
+dist/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Database files (if sensitive)
+database/*.sql
